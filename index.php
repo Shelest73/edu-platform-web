@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Education Platform</title>
+	<title>YourHelper: Blender 2.8</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<meta charset="utf-8">
 </head>
@@ -32,14 +32,14 @@
 				<a href="" class="help_item">How to do...?</a>
 				<a href="" class="help_item">How to do...?</a>
 				<a href="" class="help_item">How to do...?</a>
-			</div>	
+			</div>
 		</div>
 	</div>
 
 	<footer>
 		<div id="footer">
 			<div id="footer_section">
-				<p id="copyright">&copy;Obsessed Shaman, <?=date('Y')?></p>
+				<p id="copyright">&copy;YourHelper, <?=date('Y')?></p>
 				<a href="">About Platform</a>
 				<a href="">Terms Of Service</a>
 				<a href="">Privacy Policy</a>
