@@ -21,7 +21,7 @@
 
 	<div id="content">
 		<form id="search_form">
-			<input type="search" id="SearchField" name="SearchField" placeholder="Enter your request" size="10">
+			<input type="search" id="SearchField" name="SearchField" placeholder="Введите ваш вопрос..." size="10">
 			<!--<input type="submit" value="Search">-->
 		</form>
 		<div id="help_section">
