@@ -15,7 +15,7 @@
 				<p id="logo_text">Blender 2.8</p>
 			</a>
 		</div>
-		<a href="" id="log_in_section">Log in</a>
+		<a href="" id="log_in_section">Вход для участников</a>
 	</div>
 	</header>
 
@@ -25,13 +25,13 @@
 			<!--<input type="submit" value="Search">-->
 		</form>
 		<div id="help_section">
-			<p id="help_title">Maybe you know...</p>
+			<p id="help_title">Может быть вы знаете...</p>
 			<div id="QuestionsBlock">
-				<a href="" class="help_item">How to do...?</a>
-				<a href="" class="help_item">How to do...?</a>
-				<a href="" class="help_item">How to do...?</a>
-				<a href="" class="help_item">How to do...?</a>
-				<a href="" class="help_item">How to do...?</a>
+				<a href="" class="help_item">Как повторить последнее действие?</a>
+				<a href="" class="help_item">Как скопировать объект?</a>
+				<a href="" class="help_item">Как выбрать другой mesh для объекта?</a>
+				<a href="" class="help_item">Как добавить Fake User к mesh?</a>
+				<a href="" class="help_item">Как добавить новый объект на рабочее пространство?</a>
 			</div>
 		</div>
 	</div>
@@ -40,9 +40,9 @@
 		<div id="footer">
 			<div id="footer_section">
 				<p id="copyright">&copy;YourHelper, <?=date('Y')?></p>
-				<a href="">About Platform</a>
-				<a href="">Terms Of Service</a>
-				<a href="">Privacy Policy</a>
+				<a href="">О платформе</a>
+				<a href="">Условия использования</a>
+				<a href="">Политика приватности</a>
 			</div>
 		</div>
 	</footer>
