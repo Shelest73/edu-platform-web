@@ -39,7 +39,7 @@
 	<footer>
 		<div id="footer">
 			<div id="footer_section">
-				<p id="copyright">&copy;YourHelper, <?=date('Y')?></p>
+				<p id="copyright">&copy;YourHelper, 2020</p>
 				<a href="">О платформе</a>
 				<a href="">Условия использования</a>
 				<a href="">Политика приватности</a>
